@@ -1,0 +1,117 @@
+.main{
+	display: flex;
+	background-color: black;
+	width: 100%;
+	height: 800px;
+
+}
+.first
+{
+	width: 25%;
+}
+.upper{
+ background: black;
+	width: 33%;
+	height: 800px;	
+}
+.second : hover{
+	background-color: #383838;
+}
+
+.next{
+	background-color: black;
+	width: 33%;
+	height: 800px;
+}
+.third : hover{
+	background-color: #404040;
+}
+.last{
+	background-color: black;
+	width: 33%;
+	height: 800px;
+}
+.four : hover{
+	background-color: #383838;
+}
+h3{
+	border-left: 2px groove gray;
+	height: 800px;
+	left: 24%;
+}
+h4{
+	border-left: 2px groove gray;
+	height: 638px;
+	left: 24%;
+}
+
+p{
+	color: white;
+	height: 19px;
+	font-size: 20px;
+}
+p:hover{
+	color: #700000;
+}
+.second{
+	background-color: #404040;
+	height: 600px;
+	color: white;
+	font-style: italic;
+	word-spacing: 10px;
+}	
+
+.third{
+	background-color: #383838;
+	height: 600px;
+	font-style: italic;
+	color: white;
+	word-spacing: 10px;
+}
+.four{
+	background-color: #404040;
+	height: 600px;
+	font-style: italic;
+	color: white;
+	word-spacing: 10px;
+}
+img{
+    width: 70%;
+    height: 270px;
+    border-radius: 10%;
+    margin-top: 100px;
+    margin-left: 50px;
+    height: 300px;
+    
+
+}
+.fa-facebook : hover : after {
+	color: white;
+}
+#i1 strong{
+	font-size: 30px;
+	color: yellow;
+}
+#i1{
+	padding : 30px 30px 0px 20px;
+}
+#i2{
+	padding : 30px 30px 0px 20px;
+}
+.port{
+	font-size: 70px;
+	font-style: italic;
+	color: blue;
+}
+#i3{
+   padding : 30px 30px 0px 20px;
+}
+.contact{
+	color: white;
+	margin-left: 50px;
+}
+.email{
+	color: white;
+	margin-left: 50px;
+}
+
